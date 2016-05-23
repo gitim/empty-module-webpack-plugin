@@ -1,0 +1,20 @@
+{
+    "name": "empty-module-webpack-plugin",
+    "version": "0.0.1",
+    "description": "Replaces the module with an empty one",
+    "peerDependencies": {
+        "webpack": "^1.12"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gitim/empty-module-webpack-plugin.git"
+    },
+    "author": "Tim Gibadullin <tim.gibadullin@gmail.com>",
+    "license": "MIT",
+    "keywords": [
+        "webpack",
+        "plugin",
+        "empty",
+        "module"
+    ]
+}
